@@ -1,2 +1,2 @@
 # vts-sebestyen
-eletem elso reposiory-ja
+eletem elso repository-ja
